@@ -1,4 +1,4 @@
-# ⭐ Hello, I'm Hunwoo CHo ⭐
+# ⭐ Hello, I'm Hunwoo Cho ⭐
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhunucho&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23c33&title=VISIT&edge_flat=false)](https://github.com/hunucho)
 
 ### Hunu's SNS
@@ -9,6 +9,7 @@
 ### Who Am I
 - 🥇 Majored in Computer engineering
 - 📍 Busan, South Korea
+- 🌐 Korean(Native), English(Intermediate), Español(Beginner)
 
 ### Experience 🎓
 - DongEui-Universty computer engineering (2015.03 ~ 2022.02)
