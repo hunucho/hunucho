@@ -10,10 +10,11 @@
 - 📍 Busan, South Korea
 
 ### Experience 🎓
-- DongEui-Universty computer science department (2015.03 ~ 2022.02)
+- DongEui-Universty computer engineering (2015.03 ~ 2022.02)
 - SSAFY 7th (2022.01 ~ now)
 
 ### Experience Tech & Language
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 ### Algorithm (BAEKJOON ONLINE JUDGE)
