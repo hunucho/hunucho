@@ -9,7 +9,7 @@
 ### Who Am I
 - 🥇 Majored in Computer engineering
 - 📍 Busan, South Korea
-- 🌐 Korean(Native), English(Intermediate), Español(Beginner)
+- 🌐 Korean(Native), English(Intermediate)
 
 ### Experience 🎓
 - DongEui-Universty computer engineering (2015.03 ~ 2022.02)
