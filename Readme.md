@@ -12,7 +12,7 @@
 - 🌐 Korean(Native), English(Intermediate)
 
 ### Experience 🎓
-- DongEui-Universty computer engineering (2015.03 ~ 2022.02)
+- Major in Computer Engineering in DongEui-Universty (2015.03 ~ 2022.02)
 - SSAFY 7th (2022.01 ~ now)
 
 ### Experience Tech & Language
