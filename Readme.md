@@ -1,5 +1,5 @@
 # Hello, I'm Hunwoo Cho
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhunucho&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23c33&title=VISIT&edge_flat=false)](https://github.com/hunucho)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhunucho&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23c33&title=VISIT&edge_flat=false)](https://github.com/hunucho) -->
 
 ### Hunu's SNS
 [![mail Badge](https://img.shields.io/badge/Mail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hunu_cho@naver.com)
