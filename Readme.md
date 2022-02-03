@@ -3,7 +3,6 @@
 
 ### Hunu's SNS
 [![mail Badge](https://img.shields.io/badge/Mail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hunu_cho@naver.com)
-<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hun_u_) -->
 [![Tistory Badge](https://img.shields.io/badge/TistroyBlog-FF5722?style=flat&logoColor=white)](https://hunucho.tistory.com/)
 
 ### Who Am I
