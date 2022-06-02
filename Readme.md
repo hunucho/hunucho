@@ -31,7 +31,8 @@
 
 
 ### Algorithm (BAEKJOON ONLINE JUDGE)
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hunu_cho">![mazandi profile](http://mazandi.herokuapp.com/api?handle=hunu_cho&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hunu_cho)](https://solved.ac/hunu_cho/)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=hunu_cho&theme=dark)](https://solved.ac/hunu_cho/)
 
 ### GITHUB
 [![hunu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hunucho&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hunucho)
