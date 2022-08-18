@@ -12,7 +12,8 @@
 
 ### Experience 🎓
 - Major in Computer Engineering in DongEui-Universty (2015.03 ~ 2022.02)
-- SSAFY 7th (2022.01 ~ now)
+- SSAFY 7th (2022.01 ~ 2022.07)
+- Miracom Inc, QMS Cell (2022.07 ~ now)
 
 ### Experience Tech & Language
 **Intermediate**
