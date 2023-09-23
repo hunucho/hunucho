@@ -14,7 +14,7 @@
 - Major in Computer Engineering in DongEui-Universty (2015.03 ~ 2022.02)
 - SSAFY 7th (2022.01 ~ 2022.07)
 - Miracom Inc, QMS Cell (2022.07 ~ now)
-
+<!--
 ### Experience Tech & Language
 **Intermediate**
 ![TCL](https://img.shields.io/badge/TCL-F80000?style=for-the-badge&logo=tcl&logoColor=white)
@@ -26,13 +26,13 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 **Beginner**
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+//![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) 
 ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
+-->
 ### Certificates
 :page_with_curl:Engineer Information Processing [정보처리기사] (2022.06.17)
 
