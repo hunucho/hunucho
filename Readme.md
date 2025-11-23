@@ -7,13 +7,17 @@
 
 ### Who Am I
 - 🥇 Majored in Computer engineering
-- 📍 Busan, South Korea
-- 🌐 Korean(Native), English(Intermediate)
+- 📍 Seoul, South Korea
+- 🌐 Korean(Native), English(Intermediate), Spanish(Beginner - Learning)
 
 ### Experience 🎓
 - Major in Computer Engineering in DongEui-Universty (2015.03 ~ 2022.02)
 - SSAFY 7th (2022.01 ~ 2022.07)
 - Miracom Inc, QMS Cell (2022.07 ~ now)
+  - 천안 반도체 테스트 회사 QMS TAMS 개발자 (2022.08 ~ 2023.05)
+  - 연구소 TAMS 내재화 (2023.11 ~ 2024.03), TCL/TK
+  - 천안 반도체 패키징 회사 RMS 파싱 및 레거시 컨버전 (2024.10 ~ 2025.10), C#
+  - 국가 통합정보시스템 구축사업 JSP 개발 (2025.11 ~ 2025.12), JSP
 <!--
 ### Experience Tech & Language
 **Intermediate**
@@ -25,6 +29,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+
 **Beginner**
 //![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -34,7 +39,9 @@
 ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
 -->
 ### Certificates
-:page_with_curl:Engineer Information Processing [정보처리기사] (2022.06.17)
+- :page_with_curl:Engineer Information Processing [정보처리기사] (2022.06.17)
+- :technologist:삼성 SW 검정 Professional (2024.05.18)\n
+- :speaking_head:OPIC IH [오픽] (2024.11.10)
 
 ### Algorithm (BAEKJOON ONLINE JUDGE)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hunu_cho)](https://solved.ac/hunu_cho/)
